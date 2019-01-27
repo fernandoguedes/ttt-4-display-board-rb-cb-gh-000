@@ -8,5 +8,5 @@ end
 
 def print_row(line = false)
   puts "   |   |   "
-  puts "-----------"  
+  puts "-----------"
 end
