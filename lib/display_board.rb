@@ -4,3 +4,6 @@ def display_board
   puts "   |   |   "
   puts "-----------"
 end
+
+def print_line
+end
