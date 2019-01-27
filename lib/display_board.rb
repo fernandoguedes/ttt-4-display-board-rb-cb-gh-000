@@ -5,5 +5,5 @@ def display_board
   puts "-----------"
 end
 
-def print_line
+def print_row(line = false)
 end
